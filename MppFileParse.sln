@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MppFileParse", "MppFileParse\MppFileParse.csproj", "{35901CC3-6F26-45D3-9123-0E83B5B15E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35901CC3-6F26-45D3-9123-0E83B5B15E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35901CC3-6F26-45D3-9123-0E83B5B15E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35901CC3-6F26-45D3-9123-0E83B5B15E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35901CC3-6F26-45D3-9123-0E83B5B15E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9E6114-78C8-4FEF-AC92-BA6BF304A658}
+	EndGlobalSection
+EndGlobal
